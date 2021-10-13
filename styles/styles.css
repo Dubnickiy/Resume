@@ -1,0 +1,128 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #F5F7FA;
+}
+
+.main{
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.maincont{
+    background-color: #fff;
+    box-shadow: 60px 60px 80px rgba(0, 0, 0, 0.1);
+    padding: 105px 90px;
+}
+
+.Us{
+    margin-bottom: 40px;
+}
+
+.User{
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 17px;
+color: black;
+margin-bottom: 20px;
+}
+
+.User-name{
+font-style: normal;
+font-weight: bold;
+font-size: 45px;
+line-height: 55px;
+color: black;
+margin-bottom: 25px;
+}
+
+.project {
+   margin-bottom: 50px;
+}
+
+.project-project{
+    padding: 0;
+    margin-left: 15px;
+}
+
+.project-title{
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 24px;
+color: black;  
+}
+
+.title{
+font-style: normal;
+font-weight: bold;
+font-size: 22px;
+line-height: 27px;
+color: black; 
+margin-bottom: 10px;
+}
+
+.work-list{
+    padding-left: 15px;
+    margin-top: 15px;
+}
+
+.work{
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 24px;
+color: rgb(32, 24, 24);  
+}
+
+aside{
+    background-color: #1e2939;
+     padding-top: 40px;
+}
+
+.im{
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-top: auto;
+}
+
+.contakt{
+color: #fff;
+font-size: 15px;
+font-weight: bold;
+font-style: normal;
+line-height: 23px;
+margin-left: 30px;
+}
+
+.q{
+    color: #fff;
+    margin-right: 5px;
+} 
+
+.qw{
+    color: cornsilk;
+    outline-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 24px;
+}
+
+.skils{
+    padding: 0px;
+    margin-left: 15px;
+}
+
+.skils-q{
+    color: mintcream;
+    outline-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 24px;
+}
+
+.skils-w{
+    color: orange;
+}
